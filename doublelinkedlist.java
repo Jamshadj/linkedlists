@@ -2,7 +2,7 @@
  * doublelinkedlist
  */
 public class doublelinkedlist {
-
+   
     class Node{
         int data;
         Node prev;
