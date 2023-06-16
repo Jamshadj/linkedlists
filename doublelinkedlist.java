@@ -15,8 +15,6 @@ public class doublelinkedlist {
 
     public Node head;
     public Node tail;
-
-   
     public void addNode(int data){
         Node newNode=new Node(data);
         if (head==null) {
